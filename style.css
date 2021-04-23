@@ -1,11 +1,14 @@
 /* You're welcome to change any of this! */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
 * {
     box-sizing: border-box;
 }
 
 body {
     margin: 0px;
-    font-family: Arial, sans-serif;
+    font-family: Roboto Slab, serif;
 }
 header, section {
     padding: 20px;
@@ -15,7 +18,7 @@ p, li {
 }
 
 #inspiration {
-    background-color: #F0F0F0;
+    background-color: #b1e9c8;
     padding-top: 40px;
     padding-bottom: 40px;
 }
