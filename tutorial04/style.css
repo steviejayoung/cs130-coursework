@@ -4,18 +4,18 @@
 }
 
 body {
-    margin: 0px;
+    margin: 15px;
     font-family: Arial, sans-serif;
 }
 header, section {
-    padding: 20px;
+    padding: 30px;
 }
 p, li {
-    line-height: 1.5em;
+    line-height: 2.0em;
 }
 
 #inspiration {
-    background-color: #F0F0F0;
-    padding-top: 40px;
-    padding-bottom: 40px;
+    background-color: #47be18;
+    padding-top: 30px;
+    padding-bottom: 20px;
 }
