@@ -1,0 +1,21 @@
+/* You're welcome to change any of this! */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 15px;
+    font-family: Arial, sans-serif;
+}
+header, section {
+    padding: 30px;
+}
+p, li {
+    line-height: 2.0em;
+}
+
+#inspiration {
+    background-color: #47be18;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
