@@ -143,6 +143,11 @@ header .fa-search {
    ARTISTS, ALBUMS, & TRACKS
    *********************************************************** */
 
+#tracks, #artist, #albums {
+    border: dotted 1px #ccc;
+    min-height: 100px;
+}
+
 #featured-content {
     flex-direction: row;
     flex-wrap: wrap;
